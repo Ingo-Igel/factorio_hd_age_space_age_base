@@ -1,0 +1,27 @@
+{
+	"name": "factorio_hd_age_space_age_base",
+	"version": "1.1.1",
+	"title": "Factorio HD Age: Space Age - Base",
+	"author": "Ingo_Igel",
+	"homepage": "https://github.com/Ingo-Igel",
+	"factorio_version": "2.0",
+	"dependencies": ["base >= 2.0.44", "space-age >=2.0.44"],
+	"description": "This mod contains and integrates HD textures for basic entities (e.g. scrap and plants) of the Space Age DLC.",
+	"package": {
+		"gallery": [
+			".gallery/thumbnail_huge.png",
+			".gallery/sulfuric-acid-geyser-SD.png",
+			".gallery/sulfuric-acid-geyser-HD.png",
+			".gallery/space-platform-inner-corner-background-SD.png",
+			".gallery/space-platform-inner-corner-background-HD.png",
+			".gallery/scrap-SD.png",
+			".gallery/scrap-HD.png",
+			".gallery/mech-idle-air-SD.png",
+			".gallery/mech-idle-air-HD.png"
+		],
+		"prune_gallery": true,
+		"faq": "FAQ.md",
+		"sync_portal_details": true,
+		"no_git_push": true
+	}
+}
